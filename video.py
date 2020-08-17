@@ -17,5 +17,5 @@ video = yt.streams.first()
 
 
 # Download video
-video.download('C:/vidoes')
+video.download('path_of_the_folder')
 print('Download Completed')
